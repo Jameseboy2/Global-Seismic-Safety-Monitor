@@ -26,8 +26,8 @@ To recreate the development environment, you need the following software and/or 
 I found these websites useful in developing this software:
 
 * The U.S Geological Survey ([Link](https://www.usgs.gov/))
-* GIS (Geographic Information System) ([Link] (https://education.nationalgeographic.org/resource/geographic-information-system-gis/))
-* Careers in GIS ([Link] (https://www.esri.com/en-us/what-is-gis/careers)) 
+* GIS (Geographic Information System) ([Link](https://education.nationalgeographic.org/resource/geographic-information-system-gis/))
+* Careers in GIS ([Link](https://www.esri.com/en-us/what-is-gis/careers)) 
 
 ## Future Work
 
